@@ -17,7 +17,7 @@ For more info, please visit [spritebuilder.com](http://spritebuilder.com).
 
 Change directory into the top (this) directory of SpriteBuilder and run:
 
-    git clone https://github.com/apportable/SpriteBuilder
+    git clone https://github.com/spritebuilder/SpriteBuilder
     cd SpriteBuilder
     git submodule update --init --recursive
     cd scripts
